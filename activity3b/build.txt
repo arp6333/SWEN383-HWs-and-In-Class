@@ -1,0 +1,9 @@
+How to view Swing output:
+	- Run SwingUI.java which uses WeatherStation.java (which itself uses KelvinTempSensor.java and Barometer.java)
+	- The window is the Swing display, titled 'Weather Station, Swing'
+	- Displayed are all readings from WeatherStation
+	- Closing the window stops the program
+
+How to view text output:
+	- Run TextUI.java which uses WeatherStation.java (which itself uses KelvinTempSensor.java and Barometer.java)
+	- Displayed in the command line are all readings from WeatherStation

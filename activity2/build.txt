@@ -1,0 +1,6 @@
+How to use WeatherStation.java:
+	- Run WeatherStation.java
+	- The far left window is the AWT display, titled 'Weather Station, AWT'
+	- The right window is the Swing display, titled 'Weather Station, Swing'
+	- The output is also printed in formatted plain text in the terminal
+	- Closing either window stops the program

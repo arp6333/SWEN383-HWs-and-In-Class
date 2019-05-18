@@ -1,0 +1,25 @@
+Ellie Parobek Activity 7
+
+1. File: component
+   Text: leaf
+   Sound: leaf
+   Folder: composite
+	Files are the general definition of text and sound who implement file. Sound and text are 
+leafs because they cannot store children where folder is composite because it does store children. 
+
+2. Drawable: component
+   Rectangle: leaf
+   Ellipse: leaf
+   Group: composite
+	Drawable represents the general drawing objects: rectangle and ellipse who implements
+drawable. Rectangle and ellipse have no children so they are leafs and group stores drawable
+shapes so it is a composite.
+
+3. Book: component
+   Non-fiction: leaf 
+   Sci-Fi: leaf
+   Fantasy: leaf
+   Library: composite
+	Books represent a general definition for different types of books/ genres; in this case,
+non-fiction, sci-fi, and fantasy as the leafs. Those are leafs because they have no children and
+implement book where library is composite as it stores books and can implement its classes.

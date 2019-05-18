@@ -1,0 +1,4 @@
+How to use SwingUI.java:
+	- Run SwingUI.java which uses WeatherStation.java and KelvinTempSensor.java
+	- The window is the Swing display, titled 'Weather Station, Swing'
+	- Closing the window stops the program
