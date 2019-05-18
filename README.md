@@ -1,1 +1,1 @@
-Activities 5,6,8 were in team repository (now deleted)
+Activities 5,6,7 were in team repository (now deleted)
